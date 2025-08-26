@@ -14,7 +14,7 @@ Roblox Fruits Script Free is a powerful and user-friendly script designed to enh
 
 ---
 
-![Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz5Jlu_OaGGiT-C2q1yL0CGyGo-jYcEJFEzg&s)
+![Screenshot](https://i.ytimg.com/vi/cmtnFX4D4JU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD3-953MTvN9budmbOUvZQxPDnbjw)
 
 ## Installation Instructions
 
