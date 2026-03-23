@@ -2,11 +2,15 @@
 
 Roblox Fruits Script Free is a powerful and user-friendly script designed to enhance your Roblox Fruits gameplay. Automate farming, unlock special abilities, and get an edge over other players with this free script. Safe, reliable, and compatible with popular Roblox executors, it helps you progress faster and enjoy the game to the fullest.
 
-<div style="text-align: center">
-  <a href="https://delta-roblox-scripts-pc-free.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Roblox_Fruits_Script_Free-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 
